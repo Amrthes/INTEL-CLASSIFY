@@ -1,4 +1,4 @@
-🌍 Intel Image Classification (CNN + MobileNetV2)
+###🌍 Intel Image Classification (CNN + MobileNetV2)
 
 This project classifies images into 6 natural scene categories:
 - Buildings
@@ -10,11 +10,11 @@ This project classifies images into 6 natural scene categories:
 
 ## 📂 Project Structure
 INTEL_PROJECT/
-│── intel_mobilenetv2.h5 # Pretrained CNN model
-│── app.py # Streamlit app
-│── analysis.ipynb # Notebook for metrics & visualization
-│── requirements.txt # Dependencies
-│── outputs/ # Saved graphs & results
+│── intel_mobilenetv2.h5
+│── app.py 
+│── analysis.ipynb
+│── requirements.txt 
+│── outputs/
 │ ├── confusion_matrix.png
 │ ├── sample_predictions.png
 │ ├── accuracy_loss_curve.png
@@ -25,9 +25,6 @@ INTEL_PROJECT/
 
 ### 1️⃣ Install Dependencies
 
-## 🚀 How to Run
-
-### 1️⃣ Install Dependencies
 
 pip install -r requirements.txt
 
