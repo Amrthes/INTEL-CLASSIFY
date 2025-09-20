@@ -1,4 +1,4 @@
-###🌍 Intel Image Classification (CNN + MobileNetV2)
+### 🌍 Intel Image Classification (CNN + MobileNetV2)
 
 This project classifies images into 6 natural scene categories:
 - Buildings
